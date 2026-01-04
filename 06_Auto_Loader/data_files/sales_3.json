@@ -1,0 +1,7 @@
+{"id":15,"customer_name":"Neha Kapoor","product":"Smartwatch","quantity":1,"price":9800,"remarks":"First-time customer"}
+{"id":16,"customer_name":"Karan Malhotra","product":"Power Bank, 20000mAh","quantity":2,"price":3600,"remarks":"Repeat customer"}
+{"id":17,"customer_name":"Emily Johnson","product":"Noise Cancelling Earbuds","quantity":1,"price":5400,"remarks":"Express delivery"}
+{"id":18,"customer_name":"Suresh Iyer","product":null,"quantity":3,"price":2100,"remarks":"Product code missing"}
+{"id":19,"customer_name":"Olivia Brown","product":"Laptop Stand","quantity":null,"price":1900,"remarks":"Quantity pending confirmation"}
+{"id":20,"customer_name":null,"product":"Wireless Mouse","quantity":2,"price":1200,"remarks":"Customer details unavailable"}
+{"id":21,"customer_name":"Amit Kulkarni","product":"Desk Lamp, LED","quantity":1,"price":2300,"remarks":""}

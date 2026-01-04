@@ -1,0 +1,7 @@
+{"id":22,"customer_name":"Pooja Nair","product":"Tablet, 10-inch","quantity":1,"price":18500,"remarks":"Educational purchase"}
+{"id":23,"customer_name":"Rohit Saxena","product":"Router, Dual Band","quantity":2,"price":4200,"remarks":"Installation scheduled"}
+{"id":24,"customer_name":"Michael Chen","product":null,"quantity":5,"price":2600,"remarks":"SKU not mapped"}
+{"id":25,"customer_name":"Sneha Joshi","product":"Office Chair","quantity":1,"price":9200,"remarks":"Assembly required"}
+{"id":26,"customer_name":"Daniel Anderson","product":"HDMI Cable, 2m","quantity":null,"price":800,"remarks":"Quantity to be verified"}
+{"id":27,"customer_name":null,"product":"Portable SSD, 512GB","quantity":2,"price":null,"remarks":"Price pending approval"}
+{"id":28,"customer_name":"Vikram Rao","product":"Gaming Mouse","quantity":3,"price":2700,"remarks":"Bulk order"}

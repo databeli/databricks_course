@@ -1,0 +1,7 @@
+{"id":1,"customer_name":"John Doe","product":"Laptop, 16GB RAM","quantity":2,"price":85000,"remarks":"Delivered on time"}
+{"id":2,"customer_name":"Jane Smith","product":"Smartphone, 128GB","quantity":1,"price":55000,"remarks":"Customer said \"excellent\""}
+{"id":3,"customer_name":"Bob Lee","product":null,"quantity":3,"price":1200,"remarks":"NULL"}
+{"id":4,"customer_name":"Alice Wong","product":"Keyboard","quantity":null,"price":2500,"remarks":"Missing quantity"}
+{"id":5,"customer_name":null,"product":"Monitor, 27-inch","quantity":2,"price":null,"remarks":"No price info"}
+{"id":6,"customer_name":"Tom Brown","product":"Mouse","quantity":5,"price":700,"remarks":"Delivered, no issues"}
+{"id":7,"customer_name":"Mark Davis","product":"USB Cable","quantity":2,"price":150,"remarks":""}
