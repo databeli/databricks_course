@@ -1,0 +1,11 @@
+FirstName,LastName,Company,Email,Phone,Title,City,Country
+Amit,Sharma,Acme Corp,amit.sharma@acmecorp.com,+91-900010001,Software Engineer,Bengaluru,India
+Neha,Verma,MockSense Ltd,neha.verma@mocksense.ai,+91-900010002,Product Manager,Bengaluru,India
+Rahul,Mehta,CloudNova Systems,rahul.mehta@cloudnova.io,+1-415-555-3001,Cloud Architect,Austin,USA
+Ananya,Patel,HealthBridge Solutions,ananya.patel@healthbridge.com,+91-900010003,Data Scientist,Pune,India
+John,Doe,FinEdge Corp,john.doe@finedge.com,+1-212-555-3002,Finance Director,New York,USA
+Sarah,Lee,GreenGrid Energy,sarah.lee@greengrid.energy,+49-30-555-4001,Operations Manager,Berlin,Germany
+Michael,Brown,NextGen Telecom,michael.brown@nextgentelecom.com,+1-972-555-4002,Network Engineer,Dallas,USA
+Priya,Iyer,EduSmart Systems,priya.iyer@edusmart.org,+91-900010004,Education Consultant,Chennai,India
+David,Clark,OmniData Corp,david.clark@omnidata.io,+1-415-555-3003,Solutions Engineer,San Jose,USA
+Sneha,Kulkarni,RetailSphere,sneha.kulkarni@retailsphere.com,+91-900010005,Business Analyst,Mumbai,India
