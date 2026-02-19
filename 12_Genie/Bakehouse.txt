@@ -1,0 +1,47 @@
+Genie Name = Bakehouse
+
+Description
+This Genie workspace provides AI-powered analytics over bakery franchise sales data, allowing users to analyze revenue, customers, products, and regional performance through natural language queries.
+
+Sample Questions
+Identify the top 5 products by revenue in each franchise country.
+Show monthly revenue trend by customer continent for the last 12 months.
+
+
+General Instructions
+Business Context
+This space contains bakery franchise sales data. Each transaction represents a product sold to a customer at a specific franchise location.
+
+Revenue & Metrics
+Revenue = SUM(totalPrice)
+Total units sold = SUM(quantity)
+Average order value = AVG(totalPrice)
+Unique customers = COUNT(DISTINCT customerID)
+Unless specified, revenue refers to SUM(totalPrice).
+
+Time Handling
+Use dateTime for all time-based analysis.
+Monthly → group by month
+Yearly → group by year
+Daily → group by date
+If no time range is specified, use all available data.
+
+Geography
+If “location” is mentioned without clarification, default to franchise location.
+
+Defaults
+Rankings should be sorted in descending order.
+“Top” results default to top 10 unless specified.
+Do not expose sensitive information such as full card numbers.
+
+
+SQL Expressions
+Revenue
+SUM(sales_transactions.totalPrice)
+sales, total sales, total revenue, revenue amount, sales amount, income
+Use this expression whenever the user refers to revenue or sales without specifying calculation logic. Always calculate revenue as SUM(sales_transactions.totalPrice). Do not use unitPrice unless explicitly requested.
+
+
+Questions:
+Show total revenue by franchise country.
+Show the top 5 franchise cities by revenue, including total revenue, total units sold, number of unique customers, and average order value.
